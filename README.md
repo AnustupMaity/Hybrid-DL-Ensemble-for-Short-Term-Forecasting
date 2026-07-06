@@ -1,4 +1,4 @@
-# Hybrid Deep Learning Ensemble for Short-Term Forecasting
+# Hybrid Deep Learning Ensemble for Short-Term Forecasting - Codebase
 
 This repository implements a **hybrid deep learning ensemble approach** for short-term inflow and discharge forecasting, as detailed in the associated research paper. The project combines multiple modeling strategies to achieve robust and accurate predictions, especially for extreme and peak events.
 
